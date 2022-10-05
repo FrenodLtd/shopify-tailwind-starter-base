@@ -90,20 +90,41 @@
         "template--14377449226339__8d3c9348-f57b-4e35-88bd-532a6720818a-16649741503feb9fc8-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "games"
           }
         },
         "template--14377449226339__8d3c9348-f57b-4e35-88bd-532a6720818a-16649741503feb9fc8-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "vibrator"
+          }
+        },
+        "3cea29fa-8315-4396-8010-0fb973606b4a": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sex-toys-essentials"
+          }
+        },
+        "bcb0af95-22d9-4e2b-af32-86475aee4c45": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sex-toys-kinky-bondage"
+          }
+        },
+        "90216433-9c42-49e4-95ee-12ca4edfa1b9": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sex-toys-sex-toys-for-men"
           }
         }
       },
       "block_order": [
         "template--14377449226339__8d3c9348-f57b-4e35-88bd-532a6720818a-16649741503feb9fc8-0",
         "template--14377449226339__8d3c9348-f57b-4e35-88bd-532a6720818a-16649741503feb9fc8-1",
-        "template--14377449226339__8d3c9348-f57b-4e35-88bd-532a6720818a-16649741503feb9fc8-2"
+        "template--14377449226339__8d3c9348-f57b-4e35-88bd-532a6720818a-16649741503feb9fc8-2",
+        "3cea29fa-8315-4396-8010-0fb973606b4a",
+        "bcb0af95-22d9-4e2b-af32-86475aee4c45",
+        "90216433-9c42-49e4-95ee-12ca4edfa1b9"
       ],
       "settings": {
         "title": "",
