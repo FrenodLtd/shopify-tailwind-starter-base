@@ -146,7 +146,7 @@
           "type": "column",
           "settings": {
             "title": "Discreet Delivery",
-            "text": "<p>Our packaging and delivery is completely discrete and anonymous<\/p>",
+            "text": "<p>Our packaging and delivery is completely discrete and anonymous.<\/p>",
             "link_label": "",
             "link": ""
           }
