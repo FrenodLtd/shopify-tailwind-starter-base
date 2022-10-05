@@ -148,7 +148,7 @@
             "type": "link_list",
             "settings": {
               "heading": "Info",
-              "menu": "footer"
+              "menu": "company"
             }
           },
           "footer-2": {
