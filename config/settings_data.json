@@ -154,8 +154,8 @@
           "footer-2": {
             "type": "text",
             "settings": {
-              "heading": "Our mission",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+              "heading": "Contact Details",
+              "subtext": "<p><strong>ABUJA:<\/strong> Sparkle plaza, 522 road, off First Avenue, Gwarinpa<\/p><p>08112779870<\/p><p><\/p><p><strong>LAGOS:<\/strong> 32 Wole Ariyo, off Admiralty Way, Lekki Phase1<\/p><p>08108735691<\/p>"
             }
           }
         },

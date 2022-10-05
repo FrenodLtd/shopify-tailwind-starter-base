@@ -130,36 +130,6 @@
         "padding_bottom": 36
       }
     },
-    "rich_text": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Shop the best Adult Sex Toys in Nigeria from Erocraves<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Welcome to the Erocraves Sex Toy Store. We are Nigeria's biggest online retailer of adult sex toys. We are dedicated to promoting everyone's sexual health, wellness, and pleasure with physical locations in Lagos and Abuja. For a memorable sexual experience, we offer the best sex toys, adult toys, and intimate play items.<\/p><p> <\/p><p>We are very discreet, respect your privacy and give the best customer support, allowing you to shop for adult Sex toys online from our website with confidence.<\/p><p> <\/p><p>Uncertain of where to begin? For intense internal and external stimulation, browse our selection of rabbit vibrators. For couples looking to spice up their sex life, browse our selection of BDSM toys. Luxury vibrators, dildos, male masturbators, and anal sex toys can help you realize your wildest fantasies. You can find everything you need for a good time here, whether you're new to adult toys or an old hand. Use a butt plug, cock ring, or clitoral suction toy to experience orgasm like never before. <\/p><p> <\/p><p>Check out sex toy classics like wand massagers, dildo toys, and bullet vibrators. Experiment with powerful vibrations, sizes, and materials to find the best sex toy for you. Need some fresh ideas for the bedroom? Mix things up with BDSM role play, anal beads, or sex swings. Make sure to also browse our sex lube and sex toy cleaner, too! <\/p><p> <\/p><p>Fulfill your fantasies with adult sex toys from Erocraves<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 40
-      }
-    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
@@ -212,13 +182,43 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Shop the best Adult Sex Toys in Nigeria from Erocraves<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Welcome to the Erocraves Sex Toy Store. We are Nigeria's biggest online retailer of adult sex toys. We are dedicated to promoting everyone's sexual health, wellness, and pleasure with physical locations in Lagos and Abuja. For a memorable sexual experience, we offer the best sex toys, adult toys, and intimate play items.<\/p><p> <\/p><p>We are very discreet, respect your privacy and give the best customer support, allowing you to shop for adult Sex toys online from our website with confidence.<\/p><p> <\/p><p>Uncertain of where to begin? For intense internal and external stimulation, browse our selection of rabbit vibrators. For couples looking to spice up their sex life, browse our selection of BDSM toys. Luxury vibrators, dildos, male masturbators, and anal sex toys can help you realize your wildest fantasies. You can find everything you need for a good time here, whether you're new to adult toys or an old hand. Use a butt plug, cock ring, or clitoral suction toy to experience orgasm like never before. <\/p><p> <\/p><p>Check out sex toy classics like wand massagers, dildo toys, and bullet vibrators. Experiment with powerful vibrations, sizes, and materials to find the best sex toy for you. Need some fresh ideas for the bedroom? Mix things up with BDSM role play, anal beads, or sex swings. Make sure to also browse our sex lube and sex toy cleaner, too! <\/p><p> <\/p><p>Fulfill your fantasies with adult sex toys from Erocraves<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
     }
   },
   "order": [
     "aec9194f-3a92-4d08-b65c-fef1ea4565c2",
     "8d3c9348-f57b-4e35-88bd-532a6720818a",
     "featured_collection",
-    "rich_text",
-    "multicolumn"
+    "multicolumn",
+    "rich_text"
   ]
 }
