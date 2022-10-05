@@ -78,81 +78,70 @@
         "padding_bottom": 0
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured products",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 28,
-        "padding_bottom": 36
-      }
-    },
-    "collage": {
-      "type": "collage",
+    "8d3c9348-f57b-4e35-88bd-532a6720818a": {
+      "type": "collection-list",
       "blocks": {
-        "collection-0": {
-          "type": "collection",
+        "template--14377449226339__8d3c9348-f57b-4e35-88bd-532a6720818a-16649741503feb9fc8-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "dildos"
+          }
+        },
+        "template--14377449226339__8d3c9348-f57b-4e35-88bd-532a6720818a-16649741503feb9fc8-1": {
+          "type": "featured_collection",
           "settings": {
             "collection": ""
           }
         },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
-        "collection-1": {
-          "type": "collection",
+        "template--14377449226339__8d3c9348-f57b-4e35-88bd-532a6720818a-16649741503feb9fc8-2": {
+          "type": "featured_collection",
           "settings": {
             "collection": ""
           }
         }
       },
       "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
+        "template--14377449226339__8d3c9348-f57b-4e35-88bd-532a6720818a-16649741503feb9fc8-0",
+        "template--14377449226339__8d3c9348-f57b-4e35-88bd-532a6720818a-16649741503feb9fc8-1",
+        "template--14377449226339__8d3c9348-f57b-4e35-88bd-532a6720818a-16649741503feb9fc8-2"
       ],
       "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
         "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "video": {
-      "type": "video",
+    "featured_collection": {
+      "type": "featured-collection",
       "settings": {
-        "heading": "",
+        "title": "Best Sellers",
         "heading_size": "h1",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "top",
+        "products_to_show": 4,
+        "columns_desktop": 4,
         "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
         "color_scheme": "background-1",
-        "padding_top": 36,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
         "padding_bottom": 36
       }
     },
@@ -162,8 +151,8 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "#1 Premium Adult Store",
+            "text": "<p>We are the biggest sex toy store in Nigeria with physical locations in Lagos and Abuja.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -171,8 +160,8 @@
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Discreet Delivery",
+            "text": "<p>Our packaging and delivery is completely discrete and anonymous<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -180,8 +169,8 @@
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Money back Guarantee",
+            "text": "<p>You get the best or your money back. We have a 30 day money back guarantee.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -199,7 +188,7 @@
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "center",
-        "background_style": "none",
+        "background_style": "primary",
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
@@ -213,9 +202,8 @@
   "order": [
     "image_banner",
     "rich_text",
+    "8d3c9348-f57b-4e35-88bd-532a6720818a",
     "featured_collection",
-    "collage",
-    "video",
     "multicolumn"
   ]
 }
