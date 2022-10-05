@@ -1,5 +1,47 @@
 {
   "sections": {
+    "aec9194f-3a92-4d08-b65c-fef1ea4565c2": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14377449226339__aec9194f-3a92-4d08-b65c-fef1ea4565c2-1664986688911760de-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Talk about your brand<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14377449226339__aec9194f-3a92-4d08-b65c-fef1ea4565c2-1664986688911760de-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We help you satisfy your cravings, intimate sexual desires and fantasies with our premium sex toys and other exotic products.<\/p>"
+          }
+        },
+        "template--14377449226339__aec9194f-3a92-4d08-b65c-fef1ea4565c2-1664986688911760de-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Top Sex Toys",
+            "button_link": "shopify:\/\/collections\/top",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14377449226339__aec9194f-3a92-4d08-b65c-fef1ea4565c2-1664986688911760de-0",
+        "template--14377449226339__aec9194f-3a92-4d08-b65c-fef1ea4565c2-1664986688911760de-1",
+        "template--14377449226339__aec9194f-3a92-4d08-b65c-fef1ea4565c2-1664986688911760de-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -35,8 +77,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled_design_3.png",
-        "image_overlay_opacity": 0,
+        "image_overlay_opacity": 100,
         "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-left",
@@ -221,6 +262,7 @@
     }
   },
   "order": [
+    "aec9194f-3a92-4d08-b65c-fef1ea4565c2",
     "image_banner",
     "rich_text",
     "8d3c9348-f57b-4e35-88bd-532a6720818a",
