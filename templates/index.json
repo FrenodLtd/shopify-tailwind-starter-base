@@ -6,7 +6,7 @@
         "template--14377449226339__aec9194f-3a92-4d08-b65c-fef1ea4565c2-1664986688911760de-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
+            "heading": "<p>Welcome to Erocraves<\/p>",
             "heading_size": "h1"
           }
         },
@@ -40,53 +40,6 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
-      }
-    },
-    "image_banner": {
-      "type": "image-banner",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Erocraves Sex Toy Store",
-            "heading_size": "h1"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "We help you satisfy your cravings, intimate sexual desires and fantasies with our premium sex toys and other exotic products",
-            "text_style": "body"
-          }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text",
-        "button"
-      ],
-      "settings": {
-        "image_overlay_opacity": 100,
-        "image_height": "small",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-left",
-        "show_text_box": false,
-        "desktop_content_alignment": "left",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
       }
     },
     "rich_text": {
@@ -263,7 +216,6 @@
   },
   "order": [
     "aec9194f-3a92-4d08-b65c-fef1ea4565c2",
-    "image_banner",
     "rich_text",
     "8d3c9348-f57b-4e35-88bd-532a6720818a",
     "featured_collection",
